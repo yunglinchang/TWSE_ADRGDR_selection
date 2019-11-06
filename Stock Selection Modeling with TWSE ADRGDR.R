@@ -413,7 +413,7 @@ plot(load.image("Dqa9G3aS.png"))
 #####################################################################################
 #https://www.taifex.com.tw/cht/3/dlOptDailyMarketView
 
-setwd("C:/Users/Jack Chang/Desktop/FINANCIAL COMPUTER PROGRAMMING/") #03152138 張永霖
+setwd("C:/Users/Jack Chang/Desktop/TWSE_ADRGDR_arbitragestrategy/data") #03152138 張永霖
 dir()
 
 Equity <- fread("Daily_2019_06.txt", header=TRUE, fill = TRUE, sep=",")
