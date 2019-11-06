@@ -10,7 +10,7 @@ The contributing model consists of the following process:
  - hedging in options
  
 ## Build status
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![codecov.io](https://img.shields.io/codecov/c/github/yunglinchang/TWSE_ADRGDR_arbitragestrategy?token=7a53d52d-bdec-413e-a68b-476d9cb46f5a)](https://img.shields.io/codecov/c/github/yunglinchang/TWSE_ADRGDR_arbitragestrategy?token=7a53d52d-bdec-413e-a68b-476d9cb46f5a)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) [![codecov](https://codecov.io/gh/yunglinchang/TWSE_ADRGDR_arbitragestrategy/branch/master/graph/badge.svg)](https://codecov.io/gh/yunglinchang/TWSE_ADRGDR_arbitragestrategy)
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
