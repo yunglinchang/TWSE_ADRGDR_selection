@@ -351,7 +351,7 @@ rownames(sbenchpxd)[which(grepl(ssummax, sbenchpxd[ , 1]))] #找出max的rowname
 smultimax <- do.call(pmax, c(sbenchpxd[ , 2], list(na.rm=T)))
 rownames(sbenchpxd)[which(grepl(smultimax, sbenchpxd[ , 2]))]#找出max的rowname(第二個BENCHMARK)
 ####################################################PART3 設定投資規則
-###################################################################
+##################################################################
 #PART3 設定投資規則
 sdays=0
 sprice=1.93
