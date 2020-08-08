@@ -1,5 +1,5 @@
 # Stock Selection Modeling with TWSE ADR/GDR
-An arbitrage strategy of the Taiwan Stock Exchange (TWSE) ADRs and GDRs using the concepts of drawdown, win rate, payoff ratio, and profit factor in R. (code automated)
+The project aims to develop a profitable arbitrage strategy that will score the highest on metrics (win rate, payoff ratio, and profit ratio) for the Taiwan Stock Exchange (TWSE) ADRs and GDRs.
 
 The contributing model consists of the following process:
  - data preprocessing (raw ADR/GDR data from TWSE)
